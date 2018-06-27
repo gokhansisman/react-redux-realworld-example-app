@@ -27,5 +27,17 @@
     "build": "react-scripts build",
     "test": "cross-env PORT=4100 react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "> ### React + Redux codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokhansisman/react-redux-realworld-example-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gokhansisman/react-redux-realworld-example-app/issues"
+  },
+  "homepage": "https://github.com/gokhansisman/react-redux-realworld-example-app#readme"
 }
